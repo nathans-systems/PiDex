@@ -1,4 +1,4 @@
-#ARCHIVED
+# ARCHIVED
 This repo is from an old, unfinished project from when I was learning PCB Design, Programming and embedded engineering. Don't read this repo expecting finished work/a representation of my current skills, check out my other working repos!
 
 # PiDex
